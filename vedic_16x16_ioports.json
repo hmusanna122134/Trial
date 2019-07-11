@@ -1,0 +1,88 @@
+{
+  "pins": [
+       {
+          "side":"N",
+          "pin":[
+             {"name":"result[9]",   "status":"FIXED"},
+             {"name":"result[11]",  "status":"FIXED"},
+             {"name":"result[12]",  "status":"FIXED"},
+             {"name":"result[15]",  "status":"FIXED"},
+             {"name":"result[18]",  "status":"FIXED"},
+             {"name":"result[16]",  "status":"FIXED"},
+             {"name":"result[20]",  "status":"FIXED"},
+             {"name":"result[8]",   "status":"FIXED"},
+             {"name":"result[23]",  "status":"FIXED"},
+             {"name":"result[17]",  "status":"FIXED"},
+             {"name":"result[21]",  "status":"FIXED"},
+             {"name":"result[19]",  "status":"FIXED"},
+             {"name":"result[13]",  "status":"FIXED"},
+             {"name":"result[14]",  "status":"FIXED"},
+             {"name":"result[22]",  "status":"FIXED"},
+             {"name":"result[10]",  "status":"FIXED"}
+          ]
+       },
+       {
+          "side":"S",
+          "pin":[
+             {"name":"result[5]",   "status":"FIXED"}, 
+             {"name":"result[6]",   "status":"FIXED"}, 
+             {"name":"result[28]",  "status":"FIXED"}, 
+             {"name":"result[30]",  "status":"FIXED"}, 
+             {"name":"result[27]",  "status":"FIXED"}, 
+             {"name":"result[7]",   "status":"FIXED"}, 
+             {"name":"result[29]",  "status":"FIXED"}, 
+             {"name":"result[4] ",  "status":"FIXED"}, 
+             {"name":"a[6]",        "status":"FIXED"}, 
+             {"name":"result[31]",  "status":"FIXED"}, 
+             {"name":"result[1] ",  "status":"FIXED"}
+          ]
+       },
+       {               
+          "side":"E", 
+          "pin":[
+             {"name": "b[10]",      "status": "FIXED"},
+             {"name": "result[24]", "status": "FIXED"},
+             {"name": "b[14]",      "status": "FIXED"},
+             {"name": "result[26]", "status": "FIXED"},
+             {"name": "b[12]",      "status": "FIXED"},
+             {"name": "b[0]",       "status": "FIXED"},
+             {"name": "b[8]",       "status": "FIXED"},
+             {"name": "b[13]",      "status": "FIXED"},
+             {"name": "a[8]",       "status": "FIXED"},
+             {"name": "result[25]", "status": "FIXED"},
+             {"name": "a[5]",       "status": "FIXED"},
+             {"name": "a[2]",       "status": "FIXED"},
+             {"name": "b[1]",       "status": "FIXED"},
+             {"name": "result[3] ", "status": "FIXED"},
+             {"name": "a[3]",       "status": "FIXED"},
+             {"name": "a[4]",       "status": "FIXED"},
+             {"name": "b[11]",      "status": "FIXED"},
+             {"name": "a[0]",       "status": "FIXED"},
+             {"name": "a[1]",       "status": "FIXED"},
+             {"name": "b[9]",       "status": "FIXED"},
+             {"name": "result[2] ", "status": "FIXED"},
+             {"name": "a[9]",       "status": "FIXED"}
+           ]
+        },              
+        {               
+          "side":"W", 
+          "pin":[
+              {"name":"a[12]",     "status":"FIXED"},
+              {"name":"b[7]",      "status":"FIXED"},
+              {"name":"a[15]",     "status":"FIXED"},
+              {"name":"b[2]",      "status":"FIXED"},
+              {"name":"b[5]",      "status":"FIXED"},
+              {"name":"b[15]",     "status":"FIXED"},
+              {"name":"a[7]",      "status":"FIXED"},
+              {"name":"a[14]",     "status":"FIXED"},
+              {"name":"a[13]",     "status":"FIXED"},
+              {"name":"a[11]",     "status":"FIXED"},
+              {"name":"a[10]",     "status":"FIXED"},
+              {"name":"b[6]",      "status":"FIXED"},
+              {"name":"b[4]",      "status":"FIXED"},
+              {"name":"b[3]",      "status":"FIXED"},
+              {"name":"result[0]", "status":"FIXED"}
+           ]
+        }              
+   ]
+}
